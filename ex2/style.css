@@ -1,0 +1,7 @@
+div{color: rgb(243, 240, 240);
+background-color: rgb(230, 29, 29);
+width: 80px;
+height: 80px;
+margin: 30px;}
+
+.active{background-color: black;}
